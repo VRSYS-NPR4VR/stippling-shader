@@ -4,6 +4,6 @@ Unity implementetion of https://gfx.cs.princeton.edu/proj/hatching/ using an alt
 1. Create a new material
 2. Apply the material to an UV-Unwrapped Model
 3. Add the hatching shader to the material
-4. Add stippling textures from brightest to darkest to Hatch 0 - Hatch 5
+4. Add stippling textures (either using the included examples or generating custom textures using https://github.com/VRSYS-NPR4VR/stippling-TAM-generator) from brightest to darkest to Hatch 0 - Hatch 5
 
     --Done--
